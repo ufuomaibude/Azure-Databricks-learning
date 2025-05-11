@@ -18,10 +18,13 @@ This repository documents my hands-on experience with Azure Databricks, focusing
   
 <img width="932" alt="grant access to storage acc110525" src="https://github.com/user-attachments/assets/836c923f-2121-42ab-885d-56a04a6cb4b5" />
 
+
 - Create databricks access connector.
 - Grant access to staorage account using managed identity
+  
 
 <img width="952" alt="databrick-access-connector110525" src="https://github.com/user-attachments/assets/02794f97-fac6-4e79-b3fb-b3538f8f9922" />
+
 
 ## 🔗 Related Post
 
