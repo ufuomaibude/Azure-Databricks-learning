@@ -10,6 +10,7 @@ This repository documents my hands-on experience with Azure Databricks, focusing
 
 <img width="913" alt="Databricks session1" src="https://github.com/user-attachments/assets/ce490d58-8871-4f87-86b8-36f25cf13a4d" />
 
+https://learn.microsoft.com/api/achievements/share/en-us/PamelaIbude-4775/E55R795P?sharingId=FAD570B9B572EA71
 # Topics for week 2
 
 - Create an Azure storage account(enable hierarchical Namespace for ADLS Gen 2)
