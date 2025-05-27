@@ -21,8 +21,17 @@ https://learn.microsoft.com/api/achievements/share/en-us/PamelaIbude-4775/E55R79
 
 
 - Create databricks access connector.
-- Grant access to staorage account using managed identity
-  
+- Grant access to storage account using managed identity 
+
+# Topics for week 3
+- Created external data credential
+- Created external data  (external location must match credentials).
+- Connected to PowerBI
+
+# Topics for week 4
+- 
+
+
 
 <img width="952" alt="databrick-access-connector110525" src="https://github.com/user-attachments/assets/02794f97-fac6-4e79-b3fb-b3538f8f9922" />
 
